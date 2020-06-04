@@ -130,5 +130,8 @@
       }
     }
   },
-  "defaultProject": "projet5-service"
+  "defaultProject": "projet5-service",
+  "cli": {
+    "analytics": "da72ccab-08f0-4d17-99f3-43301a3681f3"
+  }
 }
